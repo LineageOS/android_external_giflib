@@ -16,6 +16,24 @@
       "message": "```\nApplying change number 418041...\nERROR: For 418041, could not determine the project path for project LineageOS/android_external_giflib\n```",
       "revId": "14f0a97b7c6393785338e301b9790b12a0c0b773",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f7658469_e650bfd2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-02-08T21:02:28Z",
+      "side": 1,
+      "message": "pick the manifest change to .repo/manifests... you seem to have these issues a lot lol",
+      "parentUuid": "57774c48_9cdb9e6a",
+      "revId": "14f0a97b7c6393785338e301b9790b12a0c0b773",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
