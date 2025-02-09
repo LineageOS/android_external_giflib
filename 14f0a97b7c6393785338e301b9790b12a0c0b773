@@ -52,6 +52,24 @@
       "parentUuid": "f7658469_e650bfd2",
       "revId": "14f0a97b7c6393785338e301b9790b12a0c0b773",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "073a129b_3c877b47",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-02-09T12:01:41Z",
+      "side": 1,
+      "message": "You can do a change like this https://review.lineageos.org/c/LineageOS/android/+/416373 but for 17.1.\n\nGiven what Nolen said, gerrit isn\u0027t just a place to paste errors but a place for actual development, this should be a pretty simple issue to resolve and you could upload a change to fix it.",
+      "parentUuid": "52efb0e5_4932101c",
+      "revId": "14f0a97b7c6393785338e301b9790b12a0c0b773",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
