@@ -34,6 +34,24 @@
       "parentUuid": "57774c48_9cdb9e6a",
       "revId": "14f0a97b7c6393785338e301b9790b12a0c0b773",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "52efb0e5_4932101c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26658
+      },
+      "writtenOn": "2025-02-09T11:22:08Z",
+      "side": 1,
+      "message": "What manifest changes? There are none in this topic and I did pick them here (https://review.lineageos.org/c/LineageOS/android_device_google_raviole/+/417641) still getting this error.\nSo what am I missing?",
+      "parentUuid": "f7658469_e650bfd2",
+      "revId": "14f0a97b7c6393785338e301b9790b12a0c0b773",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
